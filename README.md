@@ -1,5 +1,7 @@
 <img width="100" alt="Transparent logo" src="https://github.com/user-attachments/assets/de0e28db-03ad-4a0c-b02e-d4f3ed0c4b5c" />
 <br /> 
+<span style="color: #1D3922;">Data Cleaning.</span>
+
 # SOmething something
 Data Cleaning
 Repository contains a range of data cleaning projects
